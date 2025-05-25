@@ -4,7 +4,7 @@ public class DandS {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("enamma fakaaaa");
+		System.out.println("enamma fakaaa");
 	}
 
 }
